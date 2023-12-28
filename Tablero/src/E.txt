@@ -1,0 +1,3 @@
+Erick Israel
+Este programa simula el movimiento de una ficha en un tablero de 5x5, la ficha inicia en el punto (1,1) y el usuario puede
+decidir hasta donde moverlas la veces que ese quiera.
